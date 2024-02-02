@@ -18,6 +18,6 @@ This repository is a space where I share projects and activities related to my s
 
 ### GitHub Stats
 <a href="https://github.com/Vinicius-lj" style="display: flex; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vinicius-lj&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=9a61fa&text_color=FFF" width="450px" height="195px" alt='GitHub stats'>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Vinicius-lj&layout=compact&bg_color=000&border_color=30A3DC&title_color=9a61fa&text_color=FFF" width="400px" height="195px" alt='top languages'> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Vinicius-lj&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=9a61fa&text_color=FFF" width="430px" height="195px" alt='GitHub stats'>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Vinicius-lj&layout=compact&bg_color=000&border_color=30A3DC&title_color=9a61fa&text_color=FFF" width="380px" height="195px" alt='top languages'> 
 </a>
