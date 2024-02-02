@@ -4,7 +4,7 @@ Hi, I'm Vinicius, 31, technology lover. I am currently a Software Engineering st
 This repository is a space where I share projects and activities related to my study and learning journey. Feel free to explore my work and get in touch.
 
 
-### Connect with me
+### Contact
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:vini.leo.juca@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/vinicius-leoncio/)
 
